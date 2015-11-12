@@ -156,6 +156,7 @@
 		28A530B01BF3E6CF0045C78A /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = "Giuseppe Plagenza";
 				TargetAttributes = {
@@ -343,6 +344,7 @@
 				INFOPLIST_FILE = SelfBoomApp2/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -353,6 +355,7 @@
 				INFOPLIST_FILE = SelfBoomApp2/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -409,6 +412,7 @@
 				28A530D91BF3E6CF0045C78A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		28A530DA1BF3E6CF0045C78A /* Build configuration list for PBXNativeTarget "SelfBoomApp2Tests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +421,7 @@
 				28A530DC1BF3E6CF0045C78A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
